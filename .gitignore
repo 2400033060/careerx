@@ -1,0 +1,15 @@
+# dependencies
+**/node_modules
+
+# build outputs
+client/dist
+
+# environment
+**/.env
+
+# logs
+*.log
+npm-debug.log*
+
+# macOS
+.DS_Store
